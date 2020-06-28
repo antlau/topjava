@@ -4,7 +4,7 @@ import org.springframework.stereotype.Component;
 import ru.javawebinar.topjava.model.Meal;
 
 import java.util.Collection;
-@Component
+
 public interface MealRepository {
     // null if not found, when updated
     Meal save(Meal meal, int userId);
