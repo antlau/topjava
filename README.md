@@ -1,4 +1,5 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4d87453866f444529b5b42cdcb9c4f42)](https://www.codacy.com/gh/antlau/topjava?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=antlau/topjava&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.org/antlau/topjava.svg?branch=master)](https://travis-ci.org/antlau/topjava)
 
 Java Enterprise Online Project 
 ===============================
